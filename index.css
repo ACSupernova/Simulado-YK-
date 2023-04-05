@@ -69,7 +69,7 @@ li {
     margin: 10px;
 }
 
-@media screen and (max-width: 1080px) {
+@media screen and (max-width: 768px) {
     .caixa {
         display: flex;
         flex-direction: column-reverse;
