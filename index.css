@@ -69,7 +69,7 @@ li {
     margin: 10px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
     .caixa {
         display: flex;
         flex-direction: column-reverse;
@@ -85,7 +85,7 @@ li {
     }
 
     iframe {
-        height: 315px;
+        height: 500px;
     }
 
     footer {
