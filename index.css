@@ -74,6 +74,7 @@ li {
         display: flex;
         flex-direction: column-reverse;
         width: 100%;
+        margin:0px;
     }
 
     .item:first-child {
