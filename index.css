@@ -82,7 +82,8 @@ li {
     }
 
     img {
-        height: 330px;
+        width: auto;
+        height: auto;
     }
     
     iframe {
