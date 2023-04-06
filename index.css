@@ -74,25 +74,25 @@ li {
         display: flex;
         flex-direction: column-reverse;
         width: 100%;
-        margin:0px;
+        margin: 0px;
     }
 
-    .item:first-child {
+    .item {
         width: 100%;
     }
 
-    .item:last-child {
-        width: 100%;
+    img {
+        height: 350px;
     }
 
     iframe {
-        height: 500px;
+        height: 290px;
     }
 
     footer {
         border: 0;
         border-top: 1px solid #83a8b1;
-        margin: 0;
-        padding: 10px;
+        text-align: center;
+        height: auto;
     }
 }
