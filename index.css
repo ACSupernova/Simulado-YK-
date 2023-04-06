@@ -42,6 +42,7 @@ iframe {
     align-items: center;
     border: 1 px solid #83a8b1;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .caixa {
@@ -56,12 +57,13 @@ iframe {
 
 footer {
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
     border: 1px solid #83a8b1;
     color: #c1a1df;
     text-align: center;
     height: 50px;
+    padding: 5px;
     margin: 10px;
-    font-size: xx-large;
 }
 
 li {
@@ -85,9 +87,9 @@ li {
         width: auto;
         height: auto;
     }
-    
+
     iframe {
-        height: 250px;
+        height: 290px;
     }
 
     footer {
@@ -95,5 +97,6 @@ li {
         border-top: 1px solid #83a8b1;
         text-align: center;
         height: auto;
+        font-size: ;
     }
 }
