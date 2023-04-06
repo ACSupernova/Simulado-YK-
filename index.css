@@ -82,11 +82,15 @@ li {
     }
 
     img {
-        height: 350px;
+        height: 300px;
     }
-
+    
+    #img {
+        border: 0px;
+    }
+    
     iframe {
-        height: 290px;
+        height: 250px;
     }
 
     footer {
